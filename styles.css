@@ -1,0 +1,33 @@
+
+body{
+    border-width: 0px;
+    border-top: 0px;
+}
+
+h1{
+    color:blue
+}
+
+h2{
+    background-color: cyan;
+}
+
+.pantry-items{
+    display: inline-block;
+    background-color: goldenrod;
+    border-style: solid;
+    border-color: chartreuse;
+    padding: 10px;
+}
+
+.freezer-items{
+    display: inline-block;
+    background-color: goldenrod;
+    border-style: solid;
+    border-color: chartreuse;
+    padding:10px
+}
+
+img{
+    max-width: 20%;
+}
